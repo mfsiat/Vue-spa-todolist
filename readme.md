@@ -7,4 +7,6 @@
 
 - We created express api which stores the json data into our mongodb database. 
 
-- [Live Link](https://mfsiat-vuespa.herokuapp.com/)
+- We Deployed it on **heroku**[Live Link](https://mfsiat-vuespa.herokuapp.com/)
+
+- We excluded vue public folder and generated the production build on server folder. 
